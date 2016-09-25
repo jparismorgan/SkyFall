@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{40462930-54F5-2F52-4C93-086B87E24B00}") = "ClickGame", "Assembly-CSharp.csproj", "{FED0E95C-D69B-2935-B7E1-09629CFA0D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED0E95C-D69B-2935-B7E1-09629CFA0D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED0E95C-D69B-2935-B7E1-09629CFA0D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED0E95C-D69B-2935-B7E1-09629CFA0D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED0E95C-D69B-2935-B7E1-09629CFA0D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

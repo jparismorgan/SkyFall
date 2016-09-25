@@ -1,0 +1,17 @@
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/UnityEngine.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/UnityEditor.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/parismorgan/Documents/Unity/ClickGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/parismorgan/Documents/Unity/ClickGame/obj/Debug/Assembly-CSharp.dll
+/Users/parismorgan/Documents/Unity/ClickGame/obj/Debug/Assembly-CSharp.dll.mdb
